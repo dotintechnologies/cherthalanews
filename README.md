@@ -1,0 +1,2 @@
+# cherthalanews
+Online local newsportal
